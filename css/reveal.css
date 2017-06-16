@@ -1392,3 +1392,22 @@ body {
     padding-left:10%;
     /*aquí añades espacio entre texto y background*/
 }
+
+.black_bg
+{
+    background-color: #3d4545;
+    padding-right:10%;
+    padding-left:10%;
+    width:100%
+    /*aquí añades espacio entre texto y background*/
+}
+
+ .full-width-background {
+   margin-left: -500px;
+   margin-right: -500px;
+   padding: 100px;
+ }
+
+ .fwb-dark {
+   background-color: #3d4545;
+ }
